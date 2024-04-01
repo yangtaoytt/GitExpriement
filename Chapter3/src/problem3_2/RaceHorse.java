@@ -9,7 +9,7 @@ public class RaceHorse
     JLabel jLabel1, jLabel2;
     static JProgressBar pb1, pb2;//进度条组件对象
     static Thread thread1, thread2;//线程对象
-    //yeep,yeep,yeep
+
     void go()
     {
         jFrame = new JFrame("赛马程序");
