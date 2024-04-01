@@ -1,7 +1,7 @@
 package problem1_1;
 
 import java.util.Scanner;
-
+//this is a motify
 public class PrimeNumber {
     public static void GetPrime(int n){
         if(n<=2)return;
